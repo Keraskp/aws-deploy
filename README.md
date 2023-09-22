@@ -226,8 +226,29 @@ This is a general guide, and specific configurations may vary based on your appl
 
 - Youtube: [Deploy Django App Using Elastic Beanstalk by Mirza](https://youtu.be/ypnEf7W8db0?si=UzDMn8ev1IYi_kw1)
 
+
+## Deploying Node.js Application on Elastic Beanstalk
+
+- Youtube: [Deploying NodeJs Apps on Elastic Beanstalk | AWS](https://youtu.be/8EJceIkcRLc?si=fwtXaQ0pPXZeFbb8)
+
 ## Configuring Nginx as Reverse Proxy
 
 - Youtube: [How to configure Nginx Reverse Proxy Servers Tutorial](https://youtu.be/7jNhZrtckhA?si=5K6Skp5FXEEqML8p)
 
+## Getting SSL Certificate and Setting up Load Balancer
 
+- Youtube: [Creating Hosted Zone in Route 53, Issuing SSL Certificate from ACM and Configuring Load Balancer](https://youtu.be/TqgAjrs4QgQ?si=3fg_dBQVMViMxMFe) or [How to setup or Install SSL in AWS EC2 Instance 2020](https://youtu.be/H6eWndA44RU?si=zW5h6JnSvlJzlcln)
+
+
+## Setting up Domain and Load Balancer
+
+- Youtube: [AWS Load Balancer HTTPS Setup with Route 53 and Certificate Manager & HTTP Redirect to HTTPS](https://youtu.be/JQP96EjRM98?si=uf6_GbBdDYraKXAw)
+
+
+
+## Adding Custom Domain to any Hosting
+
+- Youtube: [How to Setup a Custom Domain in Netlify in 2023](https://www.youtube.com/watch?v=dGFYGDz9RUA&ab_channel=TechWhite)
+
+## BigRock Email Configuration
+- Youtube: [How to use Bigrock Email service with TMail](https://www.youtube.com/watch?v=hPUXNGujnbg&ab_channel=thehp) or [BigRock - How to activate Premium Email Services](https://youtu.be/fJWE1NIItMQ?si=9ri62VfzjRdJ4OJw)
